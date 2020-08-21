@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ques2{
+public class WordsReplacement{
 	public static void main(String[] args) {
 		System.out.println("Enter the string:");
 		Scanner scan=new Scanner(System.in);
